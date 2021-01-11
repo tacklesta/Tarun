@@ -20,8 +20,6 @@
 * I'm looking to collaborate on Open source projects
 * Ask me about anything, I'll be happy to help.
 
-<table><tr><td valign="top" width="50%">
-
 [gmail]: https://gmail.com
 [linkedin]: https://www.linkedin.com/in/tarun-dyundi-801a80178
 [Facebook]: https://www.facebook.com/Tacklestar.A
