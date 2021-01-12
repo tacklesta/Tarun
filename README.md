@@ -9,6 +9,7 @@
 <br />
 <hr />
 
+<img align="right" alt="GIF" src="https://github.com/bhav09/bhav09/blob/master/gif.gif" width="360"/>
 
 <h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚌𝚘𝚍𝚎𝚛𝚜/>! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
 
@@ -17,7 +18,8 @@
 * I’m currently working on my portfolio.
 * I am currently learning Deep Neural Networks.
 * I'm looking to collaborate on Open source projects
-* Ask me about anything, I'll be happy to help.
+* Ask me about: C++, Python, Machine Learning , Deep Learning , NLP 
+
 
 [gmail]: https://gmail.com
 [linkedin]: https://www.linkedin.com/in/tarun-dyundi-801a80178
