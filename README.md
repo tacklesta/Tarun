@@ -20,6 +20,26 @@
 * I'm looking to collaborate on Open source projects
 * Ask me about: C++, Python, Machine Learning , Deep Learning , NLP 
 
+### Languages and Tools :
+
+
+| Python | C++ |
+| :---: | :---: |
+
+
+| Sklearn| SQL | Pytorch | Numpy |
+| :---: | :---: | :---: | :---: |
+
+| Pandas | Tensorflow | OpenCV | Matplotlib |
+| :---: | :---: | :---: | :---: |
+
+| Pycharm | SpyderIDE | GoogleColab | Jupyter Notebook | Github |
+| :---: | :---: | :---: | :---: | :---: |
+
+| Flask | NLTK | Data Analysis |
+| :---: | :---: | :---: |
+
+
 
 [gmail]: https://gmail.com
 [linkedin]: https://www.linkedin.com/in/tarun-dyundi-801a80178
