@@ -18,7 +18,7 @@
 * I’m currently working on my portfolio.
 * I am currently learning Deep Neural Networks.
 * I'm looking to collaborate on Open source projects
-* Ask me about: C++, Python, Machine Learning , Deep Learning , NLP 
+* Ask me about: C++, Python, IOT, Embedded, Machine Learning, Deep Learning, NLP 
 
 ### Languages and Tools :
 
@@ -26,9 +26,8 @@
 | Python | C++ |
 | :---: | :---: |
 
-
-| Sklearn| SQL | Pytorch | Numpy |
-| :---: | :---: | :---: | :---: |
+| Sklearn| Pytorch | Numpy |
+| :---: | :---: | :---: |
 
 | Pandas | Tensorflow | OpenCV | Matplotlib |
 | :---: | :---: | :---: | :---: |
@@ -36,8 +35,8 @@
 | Pycharm | SpyderIDE | GoogleColab | Jupyter Notebook | Github |
 | :---: | :---: | :---: | :---: | :---: |
 
-| Flask | NLTK | Data Analysis |
-| :---: | :---: | :---: |
+| Flask | NLTK | Data Analysis | Arduino | Raspberry Pi
+| :---: | :---: | :---: | :---: | :---: |
 
 <!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tacklesta&layout=compact&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
