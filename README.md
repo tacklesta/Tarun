@@ -32,7 +32,7 @@
 | Pandas | Tensorflow | OpenCV | Matplotlib |
 | :---: | :---: | :---: | :---: |
 
-| Pycharm | SpyderIDE | GoogleColab | Jupyter Notebook | Github |
+| Atom | SpyderIDE | GoogleColab | Jupyter Notebook | Github |
 | :---: | :---: | :---: | :---: | :---: |
 
 | Flask | NLTK | Data Analysis | Arduino | Raspberry Pi
