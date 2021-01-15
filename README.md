@@ -23,8 +23,8 @@
 ### Languages and Tools :
 
 
-| Python | C++ |
-| :---: | :---: |
+| Python | C++ | HTML | CSS |
+| :---: | :---: | :---: | :---: |
 
 | Sklearn| Pytorch | Numpy |
 | :---: | :---: | :---: |
