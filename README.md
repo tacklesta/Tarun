@@ -1,5 +1,5 @@
 # Tarun Dyundi
- C++ | Python | Robotics | Internet Of Things | Machine Learning | Deep Learning | HTML | CSS
+ C++ | Python | Robotics | Internet Of Things | Machine Learning | Deep Learning 
 
 <p align="center">
   <b><i>Let's connect! Find me on the web.</i></b>
