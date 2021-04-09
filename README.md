@@ -23,19 +23,19 @@
 ### Languages and Tools :
 
 
-| Python | C++ | HTML | CSS |
+| C++ | Python | HTML | CSS | JS |
+| :---: | :---: | :---: | :---: | :---: |
+
+| Sklearn| Pytorch | Numpy | | Pandas |
 | :---: | :---: | :---: | :---: |
 
-| Sklearn| Pytorch | Numpy |
-| :---: | :---: | :---: |
-
-| Pandas | Tensorflow | OpenCV | Matplotlib |
+Tensorflow | OpenCV | Flask | NLTK |
 | :---: | :---: | :---: | :---: |
 
 | Atom | SpyderIDE | GoogleColab | Jupyter Notebook | Github |
 | :---: | :---: | :---: | :---: | :---: |
 
-| Flask | NLTK | Data Analysis | Arduino | Raspberry Pi
+Data Analysis | Arduino | Raspberry Pi
 | :---: | :---: | :---: | :---: | :---: |
 
 <!--
