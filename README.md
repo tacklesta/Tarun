@@ -26,7 +26,7 @@
 | C++ | Python | HTML | CSS | JS |
 | :---: | :---: | :---: | :---: | :---: |
 
-| Sklearn| Pytorch | Numpy | | Pandas |
+| Sklearn| Pytorch | Numpy | Pandas |
 | :---: | :---: | :---: | :---: |
 
 Tensorflow | OpenCV | Flask | NLTK |
@@ -36,7 +36,7 @@ Tensorflow | OpenCV | Flask | NLTK |
 | :---: | :---: | :---: | :---: | :---: |
 
 Data Analysis | Arduino | Raspberry Pi
-| :---: | :---: | :---: | :---: | :---: |
+| :---: | :---: | :---: |
 
 <!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tacklesta&layout=compact&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
