@@ -1,5 +1,7 @@
-<p align="center"> # Tarun Dyundi </p>
+<p align="center">
+# Tarun Dyundi
  C++ | Python | Robotics | Internet Of Things | Machine Learning | Deep Learning 
+</p>
 
 <p align="center">
   <b><i>Let's connect! Find me on the web.</i></b>
