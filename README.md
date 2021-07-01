@@ -26,17 +26,17 @@
 | C++ | Python | HTML | CSS | JS |
 | :---: | :---: | :---: | :---: | :---: |
 
-| Sklearn| Pytorch | Numpy | Pandas |
-| :---: | :---: | :---: | :---: |
-
-Tensorflow | OpenCV | Flask | NLTK |
-| :---: | :---: | :---: | :---: |
-
-| Atom | SpyderIDE | GoogleColab | Jupyter Notebook | Github |
+| Sklearn| Pytorch | Numpy | Pandas | NodeJS |
 | :---: | :---: | :---: | :---: | :---: |
 
-Data Analysis | Arduino | Raspberry Pi
-| :---: | :---: | :---: |
+Tensorflow | OpenCV | Flask | NLTK | ReactJS |
+| :---: | :---: | :---: | :---: | :---: |
+
+| Atom | GoogleColab | Jupyter Notebook | Github |
+| :---: | :---: | :---: | :---: |
+
+Data Analysis | Arduino | Raspberry Pi | SQL | MongoDB |
+| :---: | :---: | :---: | :---: | :---: |
 
 <!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tacklesta&layout=compact&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
