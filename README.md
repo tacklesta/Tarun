@@ -38,9 +38,7 @@ Tensorflow | OpenCV | Flask | NLTK | ReactJS |
 Arduino | Raspberry Pi | SQL | MongoDB |
 | :---: | :---: | :---: | :---: |
 
-<!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tacklesta&layout=compact&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
--->
 
 [gmail]: https://gmail.com
 [linkedin]: https://www.linkedin.com/in/tarun-dyundi-801a80178
