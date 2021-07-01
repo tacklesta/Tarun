@@ -16,9 +16,9 @@
 * Primary coding language: C++
 * Competitive Programmer
 * I’m currently working on my portfolio.
-* I am currently learning Deep Neural Networks.
+* I am currently learning Deep Neural Networks and MERN Stack.
 * I'm looking to collaborate on Open source projects
-* Ask me about: C++, Python, IOT, Embedded, Machine Learning, Deep Learning, NLP 
+* Ask me about: C++, Python, IOT, Robotics, Machine Learning, Deep Learning, NLP 
 
 ### Languages and Tools :
 
@@ -35,8 +35,8 @@ Tensorflow | OpenCV | Flask | NLTK | ReactJS |
 | Atom | GoogleColab | Jupyter Notebook | Github |
 | :---: | :---: | :---: | :---: |
 
-Data Analysis | Arduino | Raspberry Pi | SQL | MongoDB |
-| :---: | :---: | :---: | :---: | :---: |
+Arduino | Raspberry Pi | SQL | MongoDB |
+| :---: | :---: | :---: | :---: |
 
 <!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tacklesta&layout=compact&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
