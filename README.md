@@ -1,4 +1,4 @@
-# Tarun Dyundi
+<p align="center"> # Tarun Dyundi
  C++ | Python | Robotics | Internet Of Things | Machine Learning | Deep Learning 
 
 <p align="center">
