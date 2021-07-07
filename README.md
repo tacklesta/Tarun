@@ -10,7 +10,7 @@ C++ | Python | Robotics | Internet Of Things | Machine Learning | Deep Learning
 <br />
 <hr />
 
-<img align="right" alt="GIF" src="https://github.com/bhav09/bhav09/blob/master/gif.gif" width="360"/>
+<img align="right" alt="GIF" src="https://github.com/tacklesta/tacklesta/blob/main/gif.gif" width="360"/>
 
 <h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚌𝚘𝚍𝚎𝚛𝚜/>! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
 
