@@ -14,12 +14,15 @@ C++ | Python | Robotics | Internet Of Things | Machine Learning | Deep Learning
 
 <h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚌𝚘𝚍𝚎𝚛𝚜/>! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
 
+### I am a 3rd Year ECE student, fascinated towards Robotics ❤️
+
 * Primary coding language: C++
 * Competitive Programmer
 * I’m currently working on my portfolio.
 * I am currently learning about Transformers.
 * I'm looking to collaborate on Open source projects
-* Ask me about: Whatever you want to discuss :) 
+* Ask me about: Whatever you want to discuss 🤓😄
+
 
 ### Languages and Tools :
 
