@@ -4,9 +4,10 @@ C++ | Python | Robotics | Internet Of Things | Machine Learning | Deep Learning
 
 <p align="center">
   <b><i>Let's connect! Find me on the web.</i></b>
-
+<div style = "text-align: center">
 <a href="mailto:tarundyundi2000@gmail.com" style="text-decoration:none"><img height="30" src = "https://img.shields.io/badge/gmail-c14438?&style=for-the-badge&logo=gmail&logoColor=white"></a>
 [<img height="30" src="https://img.shields.io/badge/linkedin-blue.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />][LinkedIn]
+ </div>
 <br />
 <hr />
 
