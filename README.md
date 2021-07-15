@@ -19,7 +19,7 @@ C++ | Python | Robotics | Internet Of Things | Machine Learning | Deep Learning
 * I’m currently working on my portfolio.
 * I am currently learning about Transformers.
 * I'm looking to collaborate on Open source projects
-* Ask me about: C++, Python, IOT, Robotics, Machine Learning, Deep Learning, NLP 
+* Ask me about: Whatever you want to discuss :) 
 
 ### Languages and Tools :
 
