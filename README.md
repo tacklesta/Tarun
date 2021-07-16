@@ -6,7 +6,9 @@ C++ | Python | Robotics | Internet Of Things | Machine Learning | Deep Learning
   <b><i>Let's connect! Find me on the web.</i></b>
   
 <a href="mailto:tarundyundi2000@gmail.com" style="text-decoration:none"><img height="30" src = "https://img.shields.io/badge/gmail-c14438?&style=for-the-badge&logo=gmail&logoColor=white"></a>
-[<img height="30" src="https://img.shields.io/badge/linkedin-blue.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />][LinkedIn]
+<!-- [<img height="30" src="https://img.shields.io/badge/linkedin-blue.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />][LinkedIn] -->
+ <a href="https://www.linkedin.com/in/tarun-dyundi-801a80178" style="text-decoration:none"><img height="30" src="https://img.shields.io/badge/linkedin-blue.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  
 <br />
 <hr />
 
