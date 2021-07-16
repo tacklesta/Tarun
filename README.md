@@ -12,7 +12,7 @@ C++ | Python | Robotics | Internet Of Things | Machine Learning | Deep Learning
 
 <img align="right" alt="GIF" src="https://github.com/tacklesta/tacklesta/blob/main/gif.gif" width="360"/>
 
-<h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <coders/>! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
+<h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <coders>! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
 
 ### I am a 3rd Year ECE student, fascinated towards Robotics ❤️
 
