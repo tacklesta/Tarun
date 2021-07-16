@@ -10,7 +10,6 @@ C++ | Python | Robotics | Internet Of Things | Machine Learning | Deep Learning
 [<img height="30" src="https://img.shields.io/badge/linkedin-blue.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />][LinkedIn]
 <!--  <a href="https://www.linkedin.com/in/tarun-dyundi-801a80178" style="text-decoration:none"><img height="30" src="https://img.shields.io/badge/linkedin-blue.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
  </div> -->
-  
 <br />
 <hr />
 
