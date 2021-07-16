@@ -1,4 +1,4 @@
-# Tarun Dyundi
+<h1 align="center"> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
 
 <p align="center"> C++ | Python | Robotics | Internet Of Things | Machine Learning | Deep Learning </p>
 
@@ -14,8 +14,6 @@
 <hr/>
 
 <img align="right" alt="GIF" src="https://github.com/tacklesta/tacklesta/blob/main/gif.gif" width="360"/>
-
-<h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
 
 ### I am a 3rd Year ECE student, fascinated towards Robotics ❤️
 
