@@ -15,7 +15,7 @@
 
 <img align="right" alt="GIF" src="https://github.com/tacklesta/tacklesta/blob/main/gif.gif" width="360"/>
 
-### I am a 3rd Year ECE student, fascinated towards Robotics ❤️
+### I am a 3rd Year ECE student, fascinated towards Robotics❤️
 
 * Primary coding language: C++
 * Competitive Programmer
