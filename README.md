@@ -18,7 +18,6 @@
 ### I am a 3rd Year ECE student, fascinated towards Robotics❤️
 
 * Primary coding language: C++
-* Competitive Programmer
 * I’m currently working on my portfolio.
 * I am currently learning about Transformers.
 * I'm looking to collaborate on Open source projects
