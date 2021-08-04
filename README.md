@@ -1,5 +1,3 @@
-<div style="color: black;">
-
 <h1 align="center"> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
 
 <p align="center"> C++ | Python | Robotics | Internet Of Things | Machine Learning | Deep Learning </p>
@@ -45,9 +43,7 @@ Tensorflow | OpenCV | Flask | NLTK | ReactJS |
 | :---: | :---: | :---: | :---: | :---: |
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tacklesta&layout=compact&show_icons=true&theme=dark)](https://github.com/tacklesta/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tacklesta&layout=compact&show_icons=true&theme=light)](https://github.com/tacklesta/github-readme-stats)
 
 [gmail]: https://gmail.com
 [linkedin]: https://www.linkedin.com/in/tarun-dyundi-801a80178
-
-</div>
