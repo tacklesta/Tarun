@@ -1,3 +1,5 @@
+<div style="bg-color: black;">
+
 <h1 align="center"> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
 
 <p align="center"> C++ | Python | Robotics | Internet Of Things | Machine Learning | Deep Learning </p>
@@ -47,3 +49,5 @@ Tensorflow | OpenCV | Flask | NLTK | ReactJS |
 
 [gmail]: https://gmail.com
 [linkedin]: https://www.linkedin.com/in/tarun-dyundi-801a80178
+
+</div>
