@@ -30,17 +30,17 @@
 | C++ | Python | HTML | CSS | JS |
 | :---: | :---: | :---: | :---: | :---: |
 
-| Sklearn| Pytorch | Numpy | Pandas | NodeJS |
-| :---: | :---: | :---: | :---: | :---: |
+| NodeJS | ReactJS | Sklearn | Numpy | Pandas | Flask |
+| :---: | :---: | :---: | :---: | :---: | :---: |
 
-Tensorflow | OpenCV | Flask | NLTK | ReactJS |
+Tensorflow | OpenCV | Bootstrap | NLTK |Mongoose
 | :---: | :---: | :---: | :---: | :---: |
 
 | Atom | GoogleColab | Jupyter Notebook | Github |
 | :---: | :---: | :---: | :---: |
 
-| Git | Arduino | Raspberry Pi | SQL | MongoDB |
-| :---: | :---: | :---: | :---: | :---: |
+| Git | Arduino | Postman | NodeMCU | MYSQL | MongoDB | 
+| :---: | :---: | :---: | :---: | :---: | :---: |
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tacklesta&layout=compact&show_icons=true&theme=dark)](https://github.com/tacklesta/github-readme-stats)
