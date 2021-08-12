@@ -46,7 +46,7 @@ Tensorflow | OpenCV | Bootstrap | NLTK |Mongoose
 <p align="center">
  
   [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=tacklesta&theme=dark)](https://git.io/streak-stats)
-  &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tacklesta&show_icons=true&locale=en&theme=tokyonight" alt="@tacklesta" />
+<!--   &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tacklesta&show_icons=true&locale=en&theme=tokyonight" alt="@tacklesta" /> -->
 </p>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tacklesta&layout=compact&show_icons=true&theme=dark)](https://github.com/tacklesta/github-readme-stats)
