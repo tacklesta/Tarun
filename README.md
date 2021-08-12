@@ -45,7 +45,7 @@ Tensorflow | OpenCV | Bootstrap | NLTK |Mongoose
 <h2>Github Stats</h2>
 <p align="center">
  
-  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ancoreraj&theme=dark)](https://git.io/streak-stats)
+  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=tacklesta&theme=dark)](https://git.io/streak-stats)
   &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tacklesta&show_icons=true&locale=en&theme=tokyonight" alt="@tacklesta" />
 </p>
 
