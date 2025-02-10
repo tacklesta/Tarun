@@ -15,11 +15,11 @@
 
 <img align="right" alt="GIF" src="https://github.com/tacklesta/tacklesta/blob/main/gif.gif" width="360"/>
 
-### I am a 3rd Year ECE student, fascinated towards Robotics❤️
+### I am a Software Engineer, fascinated towards Robotics❤️
 
 * Primary coding language: C++
-* I’m currently working on my portfolio.
-* I am currently learning about Transformers.
+* I’m currently working on 5G R&D.
+* I am currently learning about Slicing Network Architecture.
 * I'm looking to collaborate on Open source projects
 * Ask me about: Whatever you want to discuss 🤓😄
 
